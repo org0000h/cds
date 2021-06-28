@@ -17,9 +17,8 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/common v0.29.0
+	github.com/prometheus/common v0.29.0 // indirect
 	github.com/segmentio/kafka-go v0.4.16
-	github.com/sirupsen/logrus v1.7.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/tal-tech/go-zero v1.1.8
 	github.com/xdg/scram v1.0.3 // indirect
